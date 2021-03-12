@@ -1,4 +1,5 @@
 ---
-public_id: REPLACE
-secret_key: REPLACE
-model_id: REPLACE
+public_id: ~
+secret_key: ~
+model_id: ~
+dest_path: ~
